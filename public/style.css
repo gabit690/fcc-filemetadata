@@ -4,7 +4,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   color: #222;
-  background-color: #ECF0F1;
+  background-color: #b8d5dd;
   text-align: center;
 }
 
@@ -15,6 +15,10 @@ body {
 
 .footer {
   margin-top: 60px;
+}
+
+.footer p {
+  font-style: italic;
 }
 
 a {
